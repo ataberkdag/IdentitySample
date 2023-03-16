@@ -1,2 +1,2 @@
 # IdentitySample
-.Net 6 Identity Sample with Role Based Authorization
+.Net 6 Identity Sample with JWT Authentication and Role Based Authorization
